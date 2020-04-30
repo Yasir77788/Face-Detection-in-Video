@@ -1,6 +1,5 @@
 # Face Detection from video
 # Yasir Hassan
-# CS 4332 - Project 2
 # Using python, opencv, and numpy
 
 #import libraries
